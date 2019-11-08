@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/NickProvidokhin/Fuel_Consumption.svg?branch=master)](https://travis-ci.com/NickProvidokhin/Fuel_Consumption)
-[![codecov](https://codecov.io/gh/NickProvidokhin/Fuel_Consumption/branch/master/graph/badge.svg)](https://codecov.io/gh/NickProvidokhin/Fuel_Consumption)
+[![Build Status](https://travis-ci.com/NickProvidokhin/Calculator-of-wallpaper.svg?branch=master)](https://travis-ci.com/NickProvidokhin/Calculator-of-wallpaper)
+[![codecov](https://codecov.io/gh/NickProvidokhin/Calculator-of-wallpaper/branch/master/graph/badge.svg)](https://codecov.io/gh/NickProvidokhin/Calculator-of-wallpaper)
