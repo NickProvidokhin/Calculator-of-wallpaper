@@ -4,7 +4,8 @@ public class CalculatorOfWallpaperService {
 
         double perimeter = (widthRoom + lengthRoom) * 2;
         double numberOfCloth = Math.ceil(perimeter / widthPiece);
-        double totalHeightRoom = heightRoom + 0.10;
+        double reserveForHeight = 0.10;
+        double totalHeightRoom = heightRoom + reserveForHeight;
         double numberOfClothOnePiece = Math.floor(lengthPiece / totalHeightRoom);
         int numberPiece = (int) Math.ceil(numberOfCloth / numberOfClothOnePiece);
 
